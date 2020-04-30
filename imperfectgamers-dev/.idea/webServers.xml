@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="d1abd400-2845-4d4d-9f58-b8f4f66305c6" name="imperfectgamers.org" url="https://dev.imperfectgamers.org">
+        <fileTransfer rootFolder="/usr/www/igfastdl" accessType="SFTP" host="hosted29.nfoservers.com" port="22" sshConfigId="949d11da-6d4a-4467-a4a7-94cdf2bd5884" sshConfig="igfastdl@hosted29.nfoservers.com:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

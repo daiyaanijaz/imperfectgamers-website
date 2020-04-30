@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="imperfectgamers.org">
+    <serverData>
+      <paths name="imperfectgamers.org">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/imperfectgamers-blog" local="$PROJECT_DIR$/imperfectgamers-blog" web="/imperfectgamers-blog" />
+            <mapping deploy="/imperfectgamers-cdn" local="$PROJECT_DIR$/imperfectgamers-cdn" web="/imperfectgamers-cdn" />
+            <mapping deploy="/imperfectgamers-dev/inc/assets/components/navbar" local="$PROJECT_DIR$/imperfectgamers-dev/inc/assets/components/navbar" web="/imperfectgamers-dev/inc/assets/components/navbar" />
+            <mapping deploy="/imperfectgamers-maintenance" local="$PROJECT_DIR$/imperfectgamers-maintenance" web="/imperfectgamers-maintenance" />
+            <mapping deploy="/imperfectgamers-updates" local="$PROJECT_DIR$/imperfectgamers-updates" web="/imperfectgamers-updates" />
+            <mapping deploy="/imperfectgamers/root/inc/assets/components" local="$PROJECT_DIR$/imperfectgamers/root/inc/assets/components" web="/imperfectgamers/root/inc/assets/components" />
+            <mapping deploy="/imperfectgamers/root/pages/activity" local="$PROJECT_DIR$/imperfectgamers/root/pages/activity" web="/imperfectgamers/root/pages/activity" />
+            <mapping deploy="/imperfectgamers/root/pages/store" local="$PROJECT_DIR$/imperfectgamers/root/pages/store" web="/imperfectgamers/root/pages/store" />
+            <mapping deploy="/imperfectgamers/root/pages/forum" local="$PROJECT_DIR$/imperfectgamers/root/pages/forum" web="/imperfectgamers/root/pages/forum" />
+            <mapping deploy="/imperfectgamers-dev/inc/assets/components/footer" local="$PROJECT_DIR$/imperfectgamers-dev/inc/assets/components/footer" web="/imperfectgamers-dev/inc/assets/components/footer" />
+            <mapping deploy="/imperfectgamers-dev/inc/assets/components/header" local="$PROJECT_DIR$/imperfectgamers-dev/inc/assets/components/header" web="/imperfectgamers-dev/inc/assets/components/header" />
+            <mapping deploy="/imperfectgamers-dev/pages/activity" local="$PROJECT_DIR$/imperfectgamers-dev/pages/activity" web="/imperfectgamers-dev/pages/activity" />
+            <mapping deploy="/imperfectgamers-dev/pages/forum" local="$PROJECT_DIR$/imperfectgamers-dev/pages/forum" web="/imperfectgamers-dev/pages/forum" />
+            <mapping deploy="/imperfectgamers-dev/pages/store" local="$PROJECT_DIR$/imperfectgamers-dev/pages/store" web="/imperfectgamers-dev/pages/store" />
+            <mapping deploy="/imperfectgamers-dev" local="$PROJECT_DIR$/imperfectgamers-dev" web="/imperfectgamers-dev" />
+            <mapping deploy="/imperfectgamers" local="$PROJECT_DIR$/imperfectgamers" web="/imperfectgamers/root" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>

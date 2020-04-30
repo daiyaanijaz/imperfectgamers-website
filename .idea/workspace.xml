@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="395b7428-1688-405e-84c7-a8fb7b462b3f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ProjectId" id="1bHH06JBVWgsBaj9yV6V21u6wC0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/imperfectgamers" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.deploy.options" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="395b7428-1688-405e-84c7-a8fb7b462b3f" name="Default Changelist" comment="" />
+      <created>1588281872828</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588281872828</updated>
+      <workItem from="1588281873910" duration="99000" />
+      <workItem from="1588281979055" duration="35000" />
+      <workItem from="1588282019318" duration="6431000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1956" y="302" width="816" height="666" key="#Deployment" timestamp="1588288761797">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1956" y="302" width="816" height="666" key="#Deployment/62.0.1858.1080/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588288761797" />
+    <state x="2456" y="165" key="#SSH_Configurations" timestamp="1588282068171">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2456" y="165" key="#SSH_Configurations/62.0.1858.1080/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588282068171" />
+    <state x="2334" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588281985836">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2334" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/62.0.1858.1080/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588281985836" />
+    <state x="2012" y="92" width="1736" height="856" key="DirDiffDialog" timestamp="1588288762130">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2012" y="92" width="1736" height="856" key="DirDiffDialog/62.0.1858.1080/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588288762130" />
+    <state x="284" y="427" key="FileChooserDialogImpl" timestamp="1588288728633">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="284" y="427" key="FileChooserDialogImpl/62.0.1858.1080/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588288728633" />
+    <state x="2381" y="165" key="SettingsEditor" timestamp="1588281937227">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2381" y="165" key="SettingsEditor/62.0.1858.1080/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588281937227" />
+    <state x="2742" y="419" width="418" height="202" key="WebDeployment.AddServerDialog.v.1" timestamp="1588282025697">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2742" y="419" width="418" height="202" key="WebDeployment.AddServerDialog.v.1/62.0.1858.1080/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588282025697" />
+    <state x="1098" y="406" key="ftp.server.browser" timestamp="1588288421110">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="1098" y="406" key="ftp.server.browser/62.0.1858.1080/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588288421110" />
+    <state x="2543" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1588282012295">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2543" y="225" width="672" height="678" key="search.everywhere.popup/62.0.1858.1080/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588282012295" />
+  </component>
+</project>
